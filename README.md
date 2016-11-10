@@ -88,7 +88,8 @@
 ```
 3. กดปุ่ม F5 เพื่อดูผลการทำงานของโปรแกรม
 4. บันทึกผล
-<img scr="https://github.com/Hathaichanok241/LAB-02/blob/master/2.1.JPG?raw=true">
+
+<img scr ="https://github.com/Hathaichanok241/LAB-02/blob/master/2.1.JPG?raw=true">
 
 **รายละเอียดของ [Main Window Class](http://www.functionx.com/win32/Lesson01b.htm)**
 
